@@ -20,7 +20,7 @@ enum CalcButton: String {
     case zero = "0"
     case add = "+"
     case subtract = "-"
-    case divide = "÷"
+    case divide = "/"
     case mutliply = "x"
     case equal = "="
     case clear = "AC"
